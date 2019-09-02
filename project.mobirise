@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -51,7 +51,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
@@ -62,7 +62,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CALL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -146,7 +146,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "48",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
             "parallax": true,
@@ -164,7 +164,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/master-1-500x500.png",
+              "src": "@PROJECT_PATH@/assets/images/carrera-master-500x500.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -183,7 +183,7 @@
           },
           "title": "Welcome",
           "text": "We've served the greater Houston area for years and are excited<br>to have you here. Please surf our site.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"english.html#features7-3\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"english.html#features7-3\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -366,12 +366,12 @@
           "_params": {
             "showBullets": true,
             "fullWidth": true,
-            "spacing": 0,
+            "spacing": "1",
             "paddingTop": "1",
-            "paddingBottom": 4,
+            "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": true,
+            "bgColor": "#ffffff",
+            "showText": false,
             "filter": false,
             "images": [
               {
@@ -698,14 +698,19 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
+          "text1": "<b>Address</b><br><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<b>Contacts</b><br><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-6"
+          "_anchor": "contacts1-6",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -724,7 +729,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
@@ -735,7 +740,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CALL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -879,14 +884,19 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
+          "text1": "<b>Address</b><br><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<b>Contacts</b><br><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-d"
+          "_anchor": "contacts1-d",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -905,7 +915,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {
@@ -916,7 +926,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CALL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1057,14 +1067,19 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
+          "text1": "<b>Address</b><br><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<b>Contacts</b><br><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-j"
+          "_anchor": "contacts1-j",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
