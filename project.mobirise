@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carrera Master Construction",
-    "currentPage": "english.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -135,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARERRA MASTER CONSTRUCTION</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARERRA MASTER CONSTRUCTION</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
         },
@@ -148,7 +148,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -157,8 +157,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -182,8 +182,8 @@
             }
           },
           "title": "Welcome",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "We've served the greater Houston area for years and are excited<br>to have you here. Please surf our site.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"english.html#features7-3\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -297,10 +297,10 @@
               "border-color": "@primaryColor"
             }
           },
-          "title1": "Service 1",
+          "title1": "Commerical",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Insert service 1 description here for your customers to read. The more information the better.",
-          "title2": "Service 2",
+          "title2": "Residential",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Insert service 1 description here for your customers to read. The more information the better.",
           "title3": "Service 3",
@@ -349,8 +349,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#ff0000",
+            "overlayOpacity": "0.6"
           },
           "title": "GALLERY",
           "text": "Take a look at some of the projects we've completed",
@@ -578,6 +578,39 @@
         },
         {
           "_params": {
+            "token": "330189593.727bfe1.738c072cb8db4db9933b6531f49f38f6",
+            "showTitle": false,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": false,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-n"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#232323",
@@ -667,7 +700,7 @@
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Website builder</a><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Download for Mac</a>",
+          "text3": "",
           "_tags": [
             "Theme"
           ],
@@ -775,7 +808,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARERRA MASTER CONSTRUCTION</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARERRA MASTER CONSTRUCTION</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-c"
         },
@@ -805,7 +838,7 @@
           },
           "title": "Welcome | Bienvenidos",
           "text": "How do you prefer to view our site? <br>Como prefieres ver nuestra pagina?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"english.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ESPAÑOL</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"english.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ESPAÑOL</a>",
           "_tags": [
             "Theme"
           ],
@@ -848,7 +881,7 @@
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Website builder</a><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Download for Mac</a>",
+          "text3": "",
           "_tags": [
             "Theme"
           ],
@@ -956,7 +989,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARERRA MASTER CONSTRUCTION</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARERRA MASTER CONSTRUCTION</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-h"
         },
@@ -1026,7 +1059,7 @@
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Website builder</a><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"http://www.mycbwebs.com\">Download for Mac</a>",
+          "text3": "",
           "_tags": [
             "Theme"
           ],
