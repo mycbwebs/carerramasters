@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carrera Master Construction",
-    "currentPage": "index.html",
+    "currentPage": "english.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -10,14 +10,14 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
+        "warningColor": "#41a85f",
         "dangerColor": "#ff0000",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 25,
+    "uniqCompNum": 36,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -36,7 +36,7 @@
     "english.html": {
       "settings": {
         "main": true,
-        "title": "English",
+        "title": "Carrera Master - English",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -62,7 +62,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -182,7 +182,7 @@
             }
           },
           "title": "Welcome",
-          "text": "We've served the greater Houston area for years and are excited<br>to have you here. Please surf our site.",
+          "text": "Carrera Master Construction has served the Greater Houston Area for<br>over 25 years. From The Woodlands to Downtown, Splendora to Carlton Woods and everywhere in between. We pride ourselves in what we do<br>and will make your project into a reality.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"english.html#features7-3\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -201,7 +201,7 @@
             "iconsBgColor": "@primaryColor",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -219,36 +219,39 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "globe",
-              "family": "MobiriseIcons",
+              "name": "link",
+              "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "english.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "pin",
-              "family": "MobiriseIcons",
+              "name": "home",
+              "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "english.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "setting",
-              "family": "MobiriseIcons",
+              "name": "setting3",
+              "family": "mobirise-icons-bold",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page3.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media4": {
@@ -297,15 +300,15 @@
               "border-color": "@primaryColor"
             }
           },
-          "title1": "Commerical",
+          "title1": "Commerical Construction",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Insert service 1 description here for your customers to read. The more information the better.",
-          "title2": "Residential",
+          "caption1": "We offer commercial construction, build outs, tenant improvements, retail maintenance, retail remodeling, finish-outs, build-to-suit services for retail, office, and other commercial spaces.",
+          "title2": "Residential Construction",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Insert service 1 description here for your customers to read. The more information the better.",
-          "title3": "Service 3",
+          "caption2": "Carrera Master Construction is a custom home builder and can build on your lot. You find the perfect piece of land and we'll build your custom dream home to suit you.",
+          "title3": "Remodeling",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Insert service 1 description here for your customers to read. The more information the better.",
+          "caption3": "With a wide range of experience remodeling homes, we specialize in kitchen remodeling, bathroom remodeling, room additions, total home renovations, garage conversions and building new garages. <a href=\"page3.html\"><b>View Portfolio</b></a>",
           "title4": "Service 4",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Insert service 1 description here for your customers to read. The more information the better.",
@@ -578,7 +581,7 @@
         },
         {
           "_params": {
-            "token": "330189593.727bfe1.738c072cb8db4db9933b6531f49f38f6",
+            "token": "16926949791.727bfe1.65e876e6295343268b05031c26ea9dbc",
             "showTitle": false,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
@@ -598,7 +601,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Instagram Feed",
+          "title": "INSTA FEED",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -607,7 +610,64 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-n"
+          "_anchor": "instagram-feed-block-n",
+          "_styles": {
+            ".inst__title": {
+              "color": "#ff0000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/69260326-2580176158937272-4815613350564069376-n-1200x1600.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Let us make your dream home a reality.",
+          "text": "<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-z"
         },
         {
           "_params": {
@@ -698,9 +758,9 @@
               "size": 0
             }
           },
-          "text1": "<b>Address</b><br><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<b>Address</b><br><br>Serving the Greater<br>Houston Area.",
           "text2": "<b>Contacts</b><br><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
-          "text3": "",
+          "text3": "Designed by <a href=\"http://www.mycbwebs.com\">mycbwebs.com</a>",
           "_tags": [
             "Theme"
           ],
@@ -716,8 +776,8 @@
     },
     "index.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Landing",
+        "meta_descr": "Carrera Master Construction has been serving the Greater Houston area for more than 25 years. We pride ourselves in excellent craftsmenship, pricing and service.",
+        "title": "Carrera Master - Landing",
         "order": 1
       },
       "components": [
@@ -740,7 +800,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -884,9 +944,9 @@
               "size": 0
             }
           },
-          "text1": "<b>Address</b><br><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<b>Address</b><br><br>Serving the Greater<br>Houston Area.",
           "text2": "<b>Contacts</b><br><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
-          "text3": "",
+          "text3": "Designed by <a href=\"http://www.mycbwebs.com\">mycbwebs.com</a>",
           "_tags": [
             "Theme"
           ],
@@ -903,7 +963,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "404",
+        "title": "Carrera Master - 404",
         "order": 2
       },
       "components": [
@@ -926,7 +986,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1067,9 +1127,9 @@
               "size": 0
             }
           },
-          "text1": "<b>Address</b><br><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<b>Address</b><br><br>Serving the Greater<br>Houston Area.",
           "text2": "<b>Contacts</b><br><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
-          "text3": "",
+          "text3": "Designed by <a href=\"http://www.mycbwebs.com\">mycbwebs.com</a>",
           "_tags": [
             "Theme"
           ],
@@ -1080,6 +1140,391 @@
               "color": "#ffffff"
             }
           }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Carrera Master - Remodeling",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-1\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-3\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-9\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#contacts1-6\">CONTACT US</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0000!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/master-97x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CARERRA MASTER CONSTRUCTION</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/15171-1280x798.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "REMODELING",
+          "text": "<p>Check out some before &amp; after's of past projects we've completed,</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-u"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r8-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r8-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r7-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r7-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r11-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r11-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r2-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r2-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r16-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r16-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r22-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r22-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r12-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r12-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r14-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r14-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-w"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r21-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r21-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r10-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r10-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r24-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r24-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/r25-450x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/r25-450x600-450x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-refresh mbr-iconfont mbr-iconfont-btn\"></span>GO BACK<br></a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/master-97x128.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>Address</b><br><br>Serving the Greater<br>Houston Area.",
+          "text2": "<b>Contacts</b><br><br>\nEmail: carreramasterc@gmail.com<br>\nPhone: (832) 791-0423<br><br>",
+          "text3": "Designed by <a href=\"http://www.mycbwebs.com\">mycbwebs.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-t"
         }
       ]
     }
