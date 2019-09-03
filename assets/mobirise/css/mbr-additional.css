@@ -548,6 +548,10 @@ section.form .container {
 #instagram-feed-block-n .inst__title {
   color: #ff0000;
 }
+#msg-box8-10 .mbr-section-title,
+#msg-box8-10 p {
+  color: #fff;
+}
 #form1-5 .form-control-label {
   color: #232323;
 }
