@@ -772,6 +772,12 @@ section.form .container {
 #msg-box8-u p {
   color: #fff;
 }
+#msg-box8-u .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-u .lead {
+  color: #ffffff;
+}
 #contacts1-t P {
   color: #ffffff;
 }

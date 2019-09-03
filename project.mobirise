@@ -1250,6 +1250,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead": {
+              "color": "#ffffff"
             }
           },
           "_params": {
