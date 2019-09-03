@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carrera Master Construction",
-    "currentPage": "english.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1476,7 +1476,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-refresh mbr-iconfont mbr-iconfont-btn\"></span>GO BACK<br></a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"english.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-refresh mbr-iconfont mbr-iconfont-btn\"></span>GO BACK<br></a>  ",
           "_tags": [
             "Theme"
           ],
