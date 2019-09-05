@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carrera Master Construction",
-    "currentPage": "page4.html",
+    "currentPage": "english.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             }
           },
           "title": "Welcome",
-          "text": "Carrera Master Construction has served the Greater Houston Area for<br>over 15 years. From The Woodlands to Downtown, Splendora to Carlton Woods and everywhere in between. We pride ourselves in what we do<br>and will make your project into a reality.",
+          "text": "Carrera Master Construction has served the Greater Houston Area for<br>many years. From The Woodlands to Downtown, Splendora to Carlton Woods and everywhere in between. We pride ourselves in what we do<br>and will make your project into a reality.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"english.html#features7-3\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_tags": [
             "Theme"
